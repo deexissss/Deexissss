@@ -9,5 +9,5 @@
 Si vous voulez voir mes projets ou discuter, c'est par ici :
 
 - **Profil 42** : [Mon profil sur l'intra](https://profile.intra.42.fr/users/tjehaes)
-- **Portfolio** : [Découvrir mes projets](TON_LIEN_PORTFOLIO)
+- **Portfolio** : [Découvrir mes projets](https://tomjehaes.com/)
 - **LinkedIn** : [Mon profil](www.linkedin.com/in/jehaestom)
