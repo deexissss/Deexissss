@@ -8,9 +8,9 @@
 ### 𝐌𝐞𝐬 𝐥𝐢𝐞𝐧𝐬
 Si vous voulez voir mes projets ou discuter, c'est par ici :
 
-- **Profil 42** : [Mon profil sur l'intra](TON_LIEN_INTRA_42)
+- **Profil 42** : [Mon profil sur l'intra](https://profile.intra.42.fr/users/tjehaes)
 - **Portfolio** : [Découvrir mes projets](TON_LIEN_PORTFOLIO)
-- **LinkedIn** : [Mon profil](TON_LIEN_LINKEDIN)
+- **LinkedIn** : [Mon profil](www.linkedin.com/in/jehaestom)
 
 <br>
 
